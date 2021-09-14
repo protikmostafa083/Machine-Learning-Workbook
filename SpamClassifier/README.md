@@ -11,3 +11,5 @@ I have tried different techniques here, I have used:
 I have tried all the combination from this aforementioned list and noted the accuracy. Maximum Accuracy 98.81% was obtained by using Stemming and Bag of Words. For all the operations here, I have used Naive Bayes Classifier. I have used MultinomialNB. It works better with NLP problems as it works comletely based on probabilistic operations. 
 
 So, In a nutshell, Maximum accuracy is obtained with the combination of Naive Bayes Classifier(MultinomialNB), Stemming and Bag of Word Model.
+
+Uploaded files here are the source codes of the process. It is a simple procesure to follow. The ZIP file contains the dataset. If you are interested, go and play with the dataset and source codes.
